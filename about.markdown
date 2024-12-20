@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about_me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a passionate and self-driven computer engineer with strong interest in coding and continuous
+learning within the tech industry. I enjoy creating solutions, am adaptive to any environment, and I
+work well in collaborative settings.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My goal is to apply my theoretical foundation to real-life scenarios, contributing both to my own
+growth and to the success of the company. I am eager to work diligently in an environment where I
+can make a meaningful impact.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can reach me from links below:
+[LinkedIn][https://www.linkedin.com/in/eren-kaan-o-ral/] /
+[Youtube](https://www.youtube.com/channel/UCouA9bk7cNbkLyWRXg3CxvA)
