@@ -13,5 +13,5 @@ growth and to the success of the company. I am eager to work diligently in an en
 can make a meaningful impact.
 
 You can reach me from links below:
-[LinkedIn][https://www.linkedin.com/in/eren-kaan-o-ral/] /
+[LinkedIn](https://www.linkedin.com/in/eren-kaan-o-ral/) /
 [Youtube](https://www.youtube.com/channel/UCouA9bk7cNbkLyWRXg3CxvA)
